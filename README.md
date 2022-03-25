@@ -1,0 +1,6 @@
+- 👋 Hi, I’m *@exSituo*
+- 👀 I’m interested in the development of systems and solving problems.
+- :pencil2: Currently, I follow a complete vocational training to become computer scientist. I learned network, _programming languages_ (like Perl, Python, JavaSE, JavaEE), OS (Linux Distributions, Windows), Web, projects management ... 
+- 💞️ I develop my knowledges and skills about IT everyday to carry out this plan.
+- 📫 If you want more information about who I am and what I doing now, send me a message. 
+- >*"Be both a speaker of words and a doer of deeds.“* Homer, Iliad (trad. Lang)
